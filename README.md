@@ -3,7 +3,7 @@ This repository is a collection of Digital Teaching Integration Initiative modul
 
 ## Modules:
 
-### Module 1: [FBI API Tutorial](https://github.com/Garrettmorrow/NULab_DTI_Modules/tree/master/web_scraping)<br>
+### Module 1: [API Module](https://github.com/Garrettmorrow/NULab_DTI_Modules/tree/master/web_scraping)<br>
 This module is a module teaching how to use the web-scraping APIs, including a general introductino presentation to web-scraping, the FBI API, the FEC API, and the NYTimes API.
 
 ### Module 2: [Text Analysis using Python](https://github.com/Garrettmorrow/NULab_DTI_Modules/blob/master/Text_Analysis/Text_Analysis_In_Python.ipynb)<br>
